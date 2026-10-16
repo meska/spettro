@@ -186,8 +186,6 @@ livelli veri). Era il rischio grosso della sandbox obbligatoria, ed è caduto.
 
 ## Note
 
-- Sviluppato in `~/Dev/vumeter` (progetto Hermes `vumeter`). Il nome della cartella è rimasto
-  quello vecchio quando l'app si chiamava VUmeter.
 - L'app è `LSUIElement`: nessuna icona nel Dock. Il login item si imposta da Impostazioni di
   Sistema → Generali → Elementi login.
 
