@@ -1,0 +1,6 @@
+/* InfoPlist.strings — zh-Hans
+   Generato da mas/l10n.json (zh-Hans). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"CFBundleDisplayName" = "Spettro";
+"NSAudioCaptureUsageDescription" = "用于读取输出音频的电平，在菜单栏中绘制频谱分析仪。不会录制、保存或传输任何内容。";

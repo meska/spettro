@@ -1,0 +1,45 @@
+/* Localizable.strings — zh-Hans
+   Generato da mas/l10n.json (zh-Hans). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"alert.error.body" = "%@\n\n如果 macOS 请求录制音频的权限，请在“系统设置 → 隐私与安全性 → 屏幕与系统音频录制”中允许，然后使用菜单中的“重新开始音频捕获”。";
+"alert.error.title" = "分析器无法读取音频";
+"alert.ok" = "OK";
+"colors.amber" = "黄色（高电平）";
+"colors.close" = "关闭";
+"colors.green" = "绿色（低电平）";
+"colors.intro" = "菜单栏 LED 颜色：";
+"colors.note" = "修改立即生效，并在下次启动时保留。";
+"colors.peak" = "峰值标记";
+"colors.red" = "红色（顶部）";
+"colors.reset" = "重置";
+"colors.title" = "显示颜色";
+"colors.unlit" = "熄灭的段";
+"error.noOutputDevice" = "没有输出设备";
+"menu.about" = "Spettro — 频谱分析仪";
+"menu.colors" = "颜色…";
+"menu.display" = "显示";
+"menu.display.bars" = "条";
+"menu.display.dots" = "点";
+"menu.peakHold" = "峰值保持";
+"menu.quit" = "退出";
+"menu.rate" = "刷新";
+"menu.rate.16" = "每秒 16 次";
+"menu.rate.24" = "每秒 24 次";
+"menu.rate.30" = "每秒 30 次（流畅）";
+"menu.rate.8" = "每秒 8 次（轻量）";
+"menu.restart" = "重新开始音频捕获";
+"menu.sens.concert" = "音乐会（−30 dB）";
+"menu.sens.normal" = "标准（−48 dB）";
+"menu.sens.sensitive" = "灵敏（−66 dB）";
+"menu.sens.verySensitive" = "非常灵敏（−78 dB）";
+"menu.sensitivity" = "灵敏度";
+"menu.size" = "大小";
+"menu.size.compact" = "紧凑";
+"menu.size.max" = "最大";
+"menu.size.normal" = "标准";
+"menu.size.wide" = "宽";
+"menu.tilt" = "斜率";
+"menu.tilt.flat" = "平坦（实测）";
+"menu.tilt.p3" = "+3 dB/倍频程";
+"menu.tilt.p45" = "+4.5 dB/倍频程";

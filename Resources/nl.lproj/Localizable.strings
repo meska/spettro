@@ -1,0 +1,45 @@
+/* Localizable.strings — nl
+   Generato da mas/l10n.json (nl). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"alert.error.body" = "%@\n\nAls macOS om toestemming vraagt om audio op te nemen, geef die dan in Systeeminstellingen → Privacy en beveiliging → Opnemen van scherm en systeemaudio en gebruik daarna ‘Audiocapture opnieuw starten’ in het menu.";
+"alert.error.title" = "De analyser kan de audio niet lezen";
+"alert.ok" = "OK";
+"colors.amber" = "Oranje (hoge niveaus)";
+"colors.close" = "Sluiten";
+"colors.green" = "Groen (lage niveaus)";
+"colors.intro" = "LED-kleuren in de menubalk:";
+"colors.note" = "Wijzigingen gelden meteen en worden bij de volgende start onthouden.";
+"colors.peak" = "Piekmarkering";
+"colors.red" = "Rood (top)";
+"colors.reset" = "Herstellen";
+"colors.title" = "Kleuren van de weergave";
+"colors.unlit" = "Gedoofde segmenten";
+"error.noOutputDevice" = "geen uitvoerapparaat";
+"menu.about" = "Spettro — spectrumanalyzer";
+"menu.colors" = "Kleuren…";
+"menu.display" = "Weergave";
+"menu.display.bars" = "Balken";
+"menu.display.dots" = "Stippen";
+"menu.peakHold" = "Piek vasthouden";
+"menu.quit" = "Stop";
+"menu.rate" = "Vernieuwing";
+"menu.rate.16" = "16 per seconde";
+"menu.rate.24" = "24 per seconde";
+"menu.rate.30" = "30 per seconde (vloeiend)";
+"menu.rate.8" = "8 per seconde (licht)";
+"menu.restart" = "Audiocapture opnieuw starten";
+"menu.sens.concert" = "Concert (−30 dB)";
+"menu.sens.normal" = "Normaal (−48 dB)";
+"menu.sens.sensitive" = "Gevoelig (−66 dB)";
+"menu.sens.verySensitive" = "Erg gevoelig (−78 dB)";
+"menu.sensitivity" = "Gevoeligheid";
+"menu.size" = "Grootte";
+"menu.size.compact" = "Compact";
+"menu.size.max" = "Maximaal";
+"menu.size.normal" = "Normaal";
+"menu.size.wide" = "Breed";
+"menu.tilt" = "Helling";
+"menu.tilt.flat" = "Vlak (gemeten)";
+"menu.tilt.p3" = "+3 dB per octaaf";
+"menu.tilt.p45" = "+4,5 dB per octaaf";

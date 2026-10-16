@@ -1,0 +1,45 @@
+/* Localizable.strings — ru
+   Generato da mas/l10n.json (ru). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"alert.error.body" = "%@\n\nЕсли macOS запросит разрешение на запись звука, разрешите его в разделе «Системные настройки → Конфиденциальность и безопасность → Запись экрана и системного звука», затем выберите «Перезапустить захват звука» в меню.";
+"alert.error.title" = "Анализатор не может прочитать звук";
+"alert.ok" = "OK";
+"colors.amber" = "Жёлтый (высокие уровни)";
+"colors.close" = "Закрыть";
+"colors.green" = "Зелёный (низкие уровни)";
+"colors.intro" = "Цвета светодиодов в строке меню:";
+"colors.note" = "Изменения применяются сразу и сохраняются до следующего запуска.";
+"colors.peak" = "Отметка пика";
+"colors.red" = "Красный (вершина)";
+"colors.reset" = "Сбросить";
+"colors.title" = "Цвета дисплея";
+"colors.unlit" = "Погасшие сегменты";
+"error.noOutputDevice" = "нет устройства вывода";
+"menu.about" = "Spettro — анализатор спектра";
+"menu.colors" = "Цвета…";
+"menu.display" = "Отображение";
+"menu.display.bars" = "Полосы";
+"menu.display.dots" = "Точки";
+"menu.peakHold" = "Удержание пика";
+"menu.quit" = "Выход";
+"menu.rate" = "Обновление";
+"menu.rate.16" = "16 в секунду";
+"menu.rate.24" = "24 в секунду";
+"menu.rate.30" = "30 в секунду (плавно)";
+"menu.rate.8" = "8 в секунду (экономно)";
+"menu.restart" = "Перезапустить захват звука";
+"menu.sens.concert" = "Концерт (−30 dB)";
+"menu.sens.normal" = "Обычный (−48 dB)";
+"menu.sens.sensitive" = "Чувствительный (−66 dB)";
+"menu.sens.verySensitive" = "Очень чувствительный (−78 dB)";
+"menu.sensitivity" = "Чувствительность";
+"menu.size" = "Размер";
+"menu.size.compact" = "Компактный";
+"menu.size.max" = "Максимальный";
+"menu.size.normal" = "Обычный";
+"menu.size.wide" = "Широкий";
+"menu.tilt" = "Наклон";
+"menu.tilt.flat" = "Ровно (измерено)";
+"menu.tilt.p3" = "+3 дБ на октаву";
+"menu.tilt.p45" = "+4,5 дБ на октаву";

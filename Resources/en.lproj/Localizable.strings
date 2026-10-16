@@ -1,0 +1,45 @@
+/* Localizable.strings — en
+   Generato da mas/l10n.json (en). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"alert.error.body" = "%@\n\nIf macOS asks for permission to record audio, allow it in System Settings → Privacy & Security → Screen & System Audio Recording, then use “Restart audio capture” from the menu.";
+"alert.error.title" = "The analyzer can't read the audio";
+"alert.ok" = "OK";
+"colors.amber" = "Amber (high levels)";
+"colors.close" = "Close";
+"colors.green" = "Green (low levels)";
+"colors.intro" = "LED colors in the menu bar:";
+"colors.note" = "Changes apply immediately and are remembered at the next launch.";
+"colors.peak" = "Peak marker";
+"colors.red" = "Red (top)";
+"colors.reset" = "Reset";
+"colors.title" = "Display colors";
+"colors.unlit" = "Unlit segments";
+"error.noOutputDevice" = "no output device";
+"menu.about" = "Spettro — spectrum analyzer";
+"menu.colors" = "Colors…";
+"menu.display" = "Display";
+"menu.display.bars" = "Bars";
+"menu.display.dots" = "Dots";
+"menu.peakHold" = "Peak hold";
+"menu.quit" = "Quit";
+"menu.rate" = "Refresh";
+"menu.rate.16" = "16 per second";
+"menu.rate.24" = "24 per second";
+"menu.rate.30" = "30 per second (smooth)";
+"menu.rate.8" = "8 per second (light)";
+"menu.restart" = "Restart audio capture";
+"menu.sens.concert" = "Concert (−30 dB)";
+"menu.sens.normal" = "Normal (−48 dB)";
+"menu.sens.sensitive" = "Sensitive (−66 dB)";
+"menu.sens.verySensitive" = "Very sensitive (−78 dB)";
+"menu.sensitivity" = "Sensitivity";
+"menu.size" = "Size";
+"menu.size.compact" = "Compact";
+"menu.size.max" = "Max";
+"menu.size.normal" = "Normal";
+"menu.size.wide" = "Wide";
+"menu.tilt" = "Slope";
+"menu.tilt.flat" = "Flat (measured)";
+"menu.tilt.p3" = "+3 dB per octave";
+"menu.tilt.p45" = "+4.5 dB per octave";

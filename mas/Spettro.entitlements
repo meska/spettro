@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- obbligatoria per il Mac App Store -->
+	<key>com.apple.security.app-sandbox</key>
+	<true/>
+	<!-- serve al tap CoreAudio sull'audio in uscita -->
+	<key>com.apple.security.device.audio-input</key>
+	<true/>
+	<!-- Dal profilo di provisioning. Senza queste due, App Store Connect risponde
+	     ITMS-90886: «missing an application identifier but has an application
+	     identifier in the provisioning profile». Xcode le inietta da solo; firmando
+	     con `codesign` vanno scritte qui a mano. -->
+	<key>com.apple.application-identifier</key>
+	<string>T4RJLVSR79.net.meskatech.spettro</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>T4RJLVSR79</string>
+</dict>
+</plist>

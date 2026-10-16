@@ -1,0 +1,16 @@
+build/
+.DS_Store
+# tooling di pubblicazione sul Mac App Store: contiene identità, chiavi API e profilo, resta in locale
+mas/embedded.provisionprofile
+mas/publish.py
+mas/make-profile.py
+mas/metadata.py
+mas/APPSTORE.md
+mas/build-mas.sh
+mas/sandbox-test.sh
+mas/Prova-audio-input.entitlements
+mas/test-tones/
+mas/AppIcon.iconset/
+*.p8
+*.p12
+*.provisionprofile

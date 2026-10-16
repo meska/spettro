@@ -1,0 +1,6 @@
+/* InfoPlist.strings — es
+   Generato da mas/l10n.json (es). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"CFBundleDisplayName" = "Spettro";
+"NSAudioCaptureUsageDescription" = "Se usa para leer el nivel del audio de salida y dibujar el analizador de espectro en la barra de menús. No se graba, guarda ni transmite nada.";

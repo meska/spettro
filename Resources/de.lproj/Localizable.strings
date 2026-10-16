@@ -1,0 +1,45 @@
+/* Localizable.strings — de
+   Generato da mas/l10n.json (de). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"alert.error.body" = "%@\n\nWenn macOS um die Erlaubnis bittet, Audio aufzunehmen, erlaube sie in Systemeinstellungen → Datenschutz & Sicherheit → Bildschirm- und Systemaudioaufnahme und wähle dann „Audioaufnahme neu starten“ im Menü.";
+"alert.error.title" = "Der Analysator kann das Audio nicht lesen";
+"alert.ok" = "OK";
+"colors.amber" = "Gelb (hohe Pegel)";
+"colors.close" = "Schließen";
+"colors.green" = "Grün (niedrige Pegel)";
+"colors.intro" = "LED-Farben in der Menüleiste:";
+"colors.note" = "Änderungen gelten sofort und bleiben beim nächsten Start erhalten.";
+"colors.peak" = "Peak-Markierung";
+"colors.red" = "Rot (Spitze)";
+"colors.reset" = "Zurücksetzen";
+"colors.title" = "Farben der Anzeige";
+"colors.unlit" = "Dunkle Segmente";
+"error.noOutputDevice" = "kein Ausgabegerät";
+"menu.about" = "Spettro — Spektrumanalysator";
+"menu.colors" = "Farben…";
+"menu.display" = "Anzeige";
+"menu.display.bars" = "Balken";
+"menu.display.dots" = "Punkte";
+"menu.peakHold" = "Peak-Hold";
+"menu.quit" = "Beenden";
+"menu.rate" = "Aktualisierung";
+"menu.rate.16" = "16 pro Sekunde";
+"menu.rate.24" = "24 pro Sekunde";
+"menu.rate.30" = "30 pro Sekunde (flüssig)";
+"menu.rate.8" = "8 pro Sekunde (leicht)";
+"menu.restart" = "Audioaufnahme neu starten";
+"menu.sens.concert" = "Konzert (−30 dB)";
+"menu.sens.normal" = "Normal (−48 dB)";
+"menu.sens.sensitive" = "Empfindlich (−66 dB)";
+"menu.sens.verySensitive" = "Sehr empfindlich (−78 dB)";
+"menu.sensitivity" = "Empfindlichkeit";
+"menu.size" = "Größe";
+"menu.size.compact" = "Kompakt";
+"menu.size.max" = "Maximal";
+"menu.size.normal" = "Normal";
+"menu.size.wide" = "Breit";
+"menu.tilt" = "Neigung";
+"menu.tilt.flat" = "Flach (gemessen)";
+"menu.tilt.p3" = "+3 dB pro Oktave";
+"menu.tilt.p45" = "+4,5 dB pro Oktave";

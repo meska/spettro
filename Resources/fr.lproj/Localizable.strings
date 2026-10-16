@@ -1,0 +1,45 @@
+/* Localizable.strings — fr
+   Generato da mas/l10n.json (fr). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"alert.error.body" = "%@\n\nSi macOS demande l'autorisation d'enregistrer l'audio, accordez-la dans Réglages du système → Confidentialité et sécurité → Enregistrement de l'écran et de l'audio système, puis utilisez « Redémarrer la capture audio » dans le menu.";
+"alert.error.title" = "L'analyseur n'arrive pas à lire l'audio";
+"alert.ok" = "OK";
+"colors.amber" = "Orange (niveaux élevés)";
+"colors.close" = "Fermer";
+"colors.green" = "Vert (niveaux faibles)";
+"colors.intro" = "Couleurs des LED dans la barre des menus :";
+"colors.note" = "Les modifications s'appliquent immédiatement et sont conservées au prochain lancement.";
+"colors.peak" = "Repère du pic";
+"colors.red" = "Rouge (sommet)";
+"colors.reset" = "Réinitialiser";
+"colors.title" = "Couleurs de l'affichage";
+"colors.unlit" = "Segments éteints";
+"error.noOutputDevice" = "aucun périphérique de sortie";
+"menu.about" = "Spettro — analyseur de spectre";
+"menu.colors" = "Couleurs…";
+"menu.display" = "Affichage";
+"menu.display.bars" = "Barres";
+"menu.display.dots" = "Points";
+"menu.peakHold" = "Maintien des crêtes";
+"menu.quit" = "Quitter";
+"menu.rate" = "Rafraîchissement";
+"menu.rate.16" = "16 par seconde";
+"menu.rate.24" = "24 par seconde";
+"menu.rate.30" = "30 par seconde (fluide)";
+"menu.rate.8" = "8 par seconde (léger)";
+"menu.restart" = "Redémarrer la capture audio";
+"menu.sens.concert" = "Concert (−30 dB)";
+"menu.sens.normal" = "Normal (−48 dB)";
+"menu.sens.sensitive" = "Sensible (−66 dB)";
+"menu.sens.verySensitive" = "Très sensible (−78 dB)";
+"menu.sensitivity" = "Sensibilité";
+"menu.size" = "Taille";
+"menu.size.compact" = "Compacte";
+"menu.size.max" = "Maximale";
+"menu.size.normal" = "Normale";
+"menu.size.wide" = "Large";
+"menu.tilt" = "Pente";
+"menu.tilt.flat" = "Plate (mesurée)";
+"menu.tilt.p3" = "+3 dB par octave";
+"menu.tilt.p45" = "+4,5 dB par octave";

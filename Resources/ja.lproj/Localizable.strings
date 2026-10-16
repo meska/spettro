@@ -1,0 +1,45 @@
+/* Localizable.strings — ja
+   Generato da mas/l10n.json (ja). Non modificare a mano:
+   le modifiche si fanno in mas/l10n.json e si rigenerano con `python3 mas/l10n.py gen`. */
+
+"alert.error.body" = "%@\n\nmacOS が音声の録音許可を求めたら、システム設定 → プライバシーとセキュリティ → 画面とシステムオーディオの録音 で許可し、メニューの「オーディオキャプチャを再起動」を選んでください。";
+"alert.error.title" = "アナライザーがオーディオを読み取れません";
+"alert.ok" = "OK";
+"colors.amber" = "黄（高レベル）";
+"colors.close" = "閉じる";
+"colors.green" = "緑（低レベル）";
+"colors.intro" = "メニューバーのLEDの色：";
+"colors.note" = "変更はすぐに反映され、次回起動時も保持されます。";
+"colors.peak" = "ピークマーカー";
+"colors.red" = "赤（上端）";
+"colors.reset" = "リセット";
+"colors.title" = "表示の色";
+"colors.unlit" = "消灯セグメント";
+"error.noOutputDevice" = "出力デバイスがありません";
+"menu.about" = "Spettro — スペクトラムアナライザー";
+"menu.colors" = "カラー…";
+"menu.display" = "表示";
+"menu.display.bars" = "バー";
+"menu.display.dots" = "ドット";
+"menu.peakHold" = "ピークホールド";
+"menu.quit" = "終了";
+"menu.rate" = "更新";
+"menu.rate.16" = "毎秒16回";
+"menu.rate.24" = "毎秒24回";
+"menu.rate.30" = "毎秒30回（なめらか）";
+"menu.rate.8" = "毎秒8回（軽量）";
+"menu.restart" = "オーディオキャプチャを再起動";
+"menu.sens.concert" = "コンサート（−30 dB）";
+"menu.sens.normal" = "標準（−48 dB）";
+"menu.sens.sensitive" = "敏感（−66 dB）";
+"menu.sens.verySensitive" = "非常に敏感（−78 dB）";
+"menu.sensitivity" = "感度";
+"menu.size" = "サイズ";
+"menu.size.compact" = "コンパクト";
+"menu.size.max" = "最大";
+"menu.size.normal" = "標準";
+"menu.size.wide" = "ワイド";
+"menu.tilt" = "傾き";
+"menu.tilt.flat" = "フラット（測定値）";
+"menu.tilt.p3" = "+3 dB/オクターブ";
+"menu.tilt.p45" = "+4.5 dB/オクターブ";
