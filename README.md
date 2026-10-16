@@ -98,11 +98,12 @@ Rimedi, entrambi nel menu o nel binario:
 ## Compilare e installare
 
 ```bash
-./build.sh                              # icona se manca, compila, firma, installa
+./build.sh                              # universale (arm64 + x86_64): compila, firma, installa
 open -a ~/Applications/Spettro.app
 ```
 
-`build.sh` usa l'identità "Developer ID Application: MESKATECH DI MESCALCHIN MARCO (T4RJLVSR79)".
+Per default firma ad hoc; con `SPETTRO_IDENTITY="Developer ID Application: …" ./build.sh` usa la tua identità.
+Richiede macOS 14.2 o successivo (il tap sull'audio di sistema non esiste prima).
 Per il debug: lanciare il binario con `--log` e leggere stderr — stampa le 20 bande in dBFS e la
 CPU propria. Con `--dump-menu` stampa il menu localizzato ed esce, senza avviare il tap audio.
 
@@ -189,15 +190,6 @@ livelli veri). Era il rischio grosso della sandbox obbligatoria, ed è caduto.
   quello vecchio quando l'app si chiamava VUmeter.
 - L'app è `LSUIElement`: nessuna icona nel Dock. Il login item si imposta da Impostazioni di
   Sistema → Generali → Elementi login.
-
-## Compilare
-
-```sh
-./build.sh                                   # universale (arm64 + x86_64), firma ad hoc, installa in ~/Applications
-SPETTRO_IDENTITY="Developer ID Application: …" ./build.sh   # con la tua identità di firma
-```
-
-Richiede macOS 14.2 o successivo (il tap sull'audio di sistema non esiste prima) e gli strumenti da riga di comando di Xcode.
 
 ## Licenza
 
